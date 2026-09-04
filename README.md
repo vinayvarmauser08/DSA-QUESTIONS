@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
