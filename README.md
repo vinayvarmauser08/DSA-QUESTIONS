@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1386-cinema-seat-allocation](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3312-sorted-gcd-pair-queries) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3665-twisted-mirror-path-count](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3310-remove-methods-from-project) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1096-brace-expansion-ii) |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [3310-remove-methods-from-project](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vinayvarmauser08/DSA-QUESTIONS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
